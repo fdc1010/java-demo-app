@@ -1,0 +1,5 @@
+service-a/target/demo.jar
+service-a/target/demo.war
+
+service-b/target/demo.jar
+service-b/target/demo.war
