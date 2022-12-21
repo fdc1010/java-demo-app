@@ -5,3 +5,4 @@ service-b/target/demo.jar
 service-b/target/demo.war
 
 service-a/src/main/resources/privateKey.pem
+service-a/target/classes/privateKey.pem
